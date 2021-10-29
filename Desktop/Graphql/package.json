@@ -1,0 +1,24 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "blog work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhannie/graphql.git"
+  },
+  "author": "Daniella Afful",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhannie/graphql/issues"
+  },
+  "homepage": "https://github.com/Dhannie/graphql#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "nodemon": "^2.0.14"
+  }
+}
